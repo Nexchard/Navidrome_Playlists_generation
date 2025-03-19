@@ -1,0 +1,2 @@
+# Navidrome_Playlists_generation
+这是一个简单而实用的m3u歌单生成工具，可以根据指定的歌曲列表，从navidrome音乐库中匹配相应的音频文件，并生成M3U格式的播放列表。
